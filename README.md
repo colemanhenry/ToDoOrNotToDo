@@ -1,2 +1,2 @@
 # ToDoOrNotToDo
-A todo list using HTML, JS, CSS &amp; Bootstrap
+A todo list using HTML, JS, CSS and Bootstrap
